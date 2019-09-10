@@ -1,6 +1,6 @@
 # Integrated Gradients for PhoenixGo
 * Integrated Gradients: [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)
-* Integrated Gradients in RL: [RUDDER: Return Decomposition for Delayed Rewards](ttps://arxiv.org/abs/1806.17857)
+* Integrated Gradients in RL: [RUDDER: Return Decomposition for Delayed Rewards](https://arxiv.org/abs/1806.17857)
 * PhoenixGo: https://github.com/Tencent/PhoenixGo
 * GoGUI: https://github.com/Remi-Coulom/gogui
 
